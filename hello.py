@@ -1,4 +1,4 @@
-"""Module docstring: Description of what the module does."""
+"""Module docstring."""
 
 A=2
 B=2
