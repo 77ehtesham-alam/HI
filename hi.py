@@ -1,6 +1,6 @@
-"""Module do# # cstring."""
-A=1
-print("Hi")
-A=1
-# # v
-# # c
+[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]M[No trailing newlines, so nothing should be here]o[No trailing newlines, so nothing should be here]d[No trailing newlines, so nothing should be here]u[No trailing newlines, so nothing should be here]l[No trailing newlines, so nothing should be here]e[No trailing newlines, so nothing should be here] [No trailing newlines, so nothing should be here]d[No trailing newlines, so nothing should be here]o[No trailing newlines, so nothing should be here]#[No trailing newlines, so nothing should be here] [No trailing newlines, so nothing should be here]#[No trailing newlines, so nothing should be here] [No trailing newlines, so nothing should be here]c[No trailing newlines, so nothing should be here]s[No trailing newlines, so nothing should be here]t[No trailing newlines, so nothing should be here]r[No trailing newlines, so nothing should be here]i[No trailing newlines, so nothing should be here]n[No trailing newlines, so nothing should be here]g[No trailing newlines, so nothing should be here].[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]
+[No trailing newlines, so nothing should be here]a[No trailing newlines, so nothing should be here]=[No trailing newlines, so nothing should be here]1[No trailing newlines, so nothing should be here]
+[No trailing newlines, so nothing should be here]p[No trailing newlines, so nothing should be here]r[No trailing newlines, so nothing should be here]i[No trailing newlines, so nothing should be here]n[No trailing newlines, so nothing should be here]t[No trailing newlines, so nothing should be here]([No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here]H[No trailing newlines, so nothing should be here]i[No trailing newlines, so nothing should be here]"[No trailing newlines, so nothing should be here])[No trailing newlines, so nothing should be here]
+[No trailing newlines, so nothing should be here]A[No trailing newlines, so nothing should be here]=[No trailing newlines, so nothing should be here]1[No trailing newlines, so nothing should be here]
+[No trailing newlines, so nothing should be here]
+[No trailing newlines, so nothing should be here]
