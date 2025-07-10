@@ -1,6 +1,5 @@
 """Module do# # cstring."""
-A=1
+a=1
 print("Hi")
 A=1
-# # v
-# # c
+
