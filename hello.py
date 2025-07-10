@@ -1,4 +1,5 @@
 """Module docstring."""
-a=2
-b=2
+A=2
+B=2
 print("hello")
+C=2
